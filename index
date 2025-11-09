@@ -1,0 +1,50 @@
+<html>
+<head>
+        <title>Kakaesha Sucahyo Portfolio</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1" >
+        <link href="./resource/home.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+    <nav>
+        <a href="./index.html">home</a>
+        <a href="./Poetry.html">poetry</a>
+        <a href="./Music.html">music</a>
+        <a href="./Gallery.html">gallery</a>
+        <a href="./Digital.html">digital</a>
+        <a href="./Memoir.html">memoir & essays</a>
+    </nav>
+
+    <div class="body">
+        <div id="portrait">
+            <img src="C:\Users\keyka\OneDrive\Pictures\Photos and Videos\IMG_2670.jpg"/ width="375px">
+        </div>
+        <div id="Intro">
+            <h1>Introduction</h1>
+            <h3>Hi, I'm Kakaesha Sitti Sucahyo. Mostly known as Keyka.</h3>
+            <h3>I was born on June 21st, 1995 at the baby factory known as <br>Holy Cross Hospital in Silver Spring, Maryland.</h3>
+            <h3>I'm an Indonesian-Muslim, born and raised in Maryland, USA.</h3>
+            <h3>This is a portfolio of my life's work.</h3>
+        </div>
+    </div>
+</body>
+
+    <footer>
+        <a href="./7Contact.html">contact</a>
+        <a href="./8Privacy.html">privacy</a>
+    </footer>
+</html>
+
+
+
+<!-- 
+
+Portrait
+
+
+
+Contact and Privacy
+
+kschyo@seedling.edu
+
+-->
