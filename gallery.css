@@ -27,13 +27,12 @@ h1 {
 
 #artpost {
     padding: 5px;
-    width: auto;
-    height: 500px;
     text-align: center;
     position: relative;
 }
 
 img {
+    height: 500px;
     display:block;
     margin: auto;
 }
