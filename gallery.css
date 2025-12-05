@@ -27,7 +27,8 @@ h1 {
 
 #artpost {
     padding: 5px;
-    height: 450px;
+    width: auto;
+    height: 500px;
     text-align: center;
     position: relative;
 }
