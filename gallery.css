@@ -33,7 +33,7 @@ h1 {
 
 img {
     height: 450px;
-    display:block;
+    display: inline-block;
     margin: auto;
 }
 
