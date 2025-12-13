@@ -1,0 +1,37 @@
+* {
+    background-color: black;
+    color:antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    text-align: center;
+    padding: 50px;
+}
+
+footer {
+    text-align: center;
+    padding: 35px;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#website {
+    padding: 20px;
+    text-align: center;
+    width: 650px;
+}
+
+img {
+    width: 650px;
+    border: 1px black solid;
+}
+
+img:hover {
+    border: 1px white dotted;
+}
+
