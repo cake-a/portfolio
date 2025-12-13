@@ -24,15 +24,13 @@ footer {
     padding: 35px;
 }
 
-#2025, #2024, #2022, #2021, #2020, #2019 {
-  overflow: auto;
-  white-space: nowrap;
-  padding: 10px;
-}
-
-#2023 {
+.row {
     display: flex;
     justify-content: center;
+    flex-wrap:wrap;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
 }
 
 img {
