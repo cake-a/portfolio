@@ -28,8 +28,10 @@ footer {
 
 img {
     width: 650px;
+    border: 1px black solid;
 }
 
 img:hover {
     border: 1px white dotted;
 }
+
