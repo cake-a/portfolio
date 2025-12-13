@@ -27,5 +27,8 @@ footer {
 
 img {
     width: 650px;
-    border: 3px white solid;
+}
+
+img:hover {
+        border: 3px white solid;
 }
