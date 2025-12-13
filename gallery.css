@@ -25,12 +25,9 @@ footer {
 }
 
 .row {
-    display: flex;
-    justify-content: center;
-    flex-wrap:wrap;
-    overflow: auto;
-    white-space: nowrap;
-    padding: 10px;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
 }
 
 img {
