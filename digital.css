@@ -27,8 +27,9 @@ footer {
 
 img {
     width: 650px;
+    border: 3px white black;
 }
 
 img:hover {
-        border: 3px white solid;
+    border: 3px white solid;
 }
