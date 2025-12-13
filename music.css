@@ -1,5 +1,5 @@
 * {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     color:antiquewhite;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -16,9 +16,4 @@ main {
 footer {
     text-align: center;
     padding: 35px;
-}
-
-.body {
-    display: flex;
-    justify-content: center;
 }
