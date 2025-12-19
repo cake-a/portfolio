@@ -9,14 +9,11 @@ nav {
     padding: 50px;
 }
 
-.introduction {
+main {
     display: flex;
     justify-content: center;
 }
 
-#intro {
-    padding: 20px;
-}
 
 figure {
     flex-basis: 375px;
@@ -32,9 +29,10 @@ footer {
 }
 
 @media (max-width: 500px) {
-    .introduction {
+    main {
         display: inline-flex;
         flex-wrap: wrap;
+        justify-content: center;
         width: 500px;
     }
     figure {
