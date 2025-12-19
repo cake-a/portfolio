@@ -33,3 +33,13 @@ img:hover {
     border: 1px white dotted;
 }
 
+@media (max-width: 500px) {
+    main {
+        display: inline-flex;
+        flex-wrap: wrap;
+        width: 500px;
+    }
+    #website {
+        width: 300px;
+    }
+}
