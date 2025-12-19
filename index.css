@@ -30,3 +30,14 @@ footer {
     text-align: center;
     padding: 35px;
 }
+
+@media (max-width: 500px) {
+    .introduction {
+        display: inline-flex;
+        flex-wrap: wrap;
+        width: 500px;
+    }
+    figure {
+        width: 300px;
+    }
+}
