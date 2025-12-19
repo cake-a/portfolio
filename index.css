@@ -33,9 +33,9 @@ footer {
         display: inline-flex;
         flex-wrap: wrap;
         justify-content: center;
-        width: 500px;
+        width: 360px;
     }
     figure {
-        width: 300px;
+        width: 250px;
     }
 }
