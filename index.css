@@ -19,7 +19,7 @@ nav {
 }
 
 figure {
-    width:  375px;
+    flex-basis: 375px;
 }
 
 img {
