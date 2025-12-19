@@ -32,6 +32,13 @@ img {
     padding: 10px;
 }
 
+@media (max-width: 500px) {
+    img {
+        height: 300px;
+    }
+}
+
+
 /* 
 
 HOVER TEXT OVERLAY FOR EACH IMAGE 
