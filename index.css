@@ -18,6 +18,14 @@ nav {
     padding: 20px;
 }
 
+figure {
+    width:  375px;
+}
+
+img {
+    width: 100%;
+}
+
 footer {
     text-align: center;
     padding: 35px;
