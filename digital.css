@@ -41,9 +41,10 @@ img:hover {
         width: 375px;
     }
     #website {
-        width: 300px;
+        width: 100%;
     }
 }
+
 
 
 
