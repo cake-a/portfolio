@@ -33,7 +33,7 @@ footer {
         display: inline-flex;
         flex-wrap: wrap;
         justify-content:center;
-        width: 375;
+        width: 100%;
     }
     figure {
         width: 80%;
