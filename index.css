@@ -28,14 +28,14 @@ footer {
     padding: 35px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     main {
         display: inline-flex;
         flex-wrap: wrap;
-        justify-content: center;
-        width: 375px;
+        justify-content:center;
+        width: 375;
     }
     figure {
-        width: 300px;
+        width: 250px;
     }
 }
