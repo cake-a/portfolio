@@ -38,12 +38,13 @@ img:hover {
         display: inline-flex;
         flex-wrap: wrap;
         justify-content: center;
-        width: 375px;
+        width: 100%;
     }
     #website {
         width: 100%;
     }
 }
+
 
 
 
