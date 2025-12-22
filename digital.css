@@ -37,12 +37,14 @@ img:hover {
     main {
         display: inline-flex;
         flex-wrap: wrap;
-        width: 360px;
+        justify-content: center;
+        width: 375px;
     }
     #website {
         width: 300px;
     }
 }
+
 
 
 
