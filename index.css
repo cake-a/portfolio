@@ -28,7 +28,7 @@ footer {
     padding: 35px;
 }
 
-@media (max-width: 500px) {
+@media only screen and (max-width: 500px) {
     main {
         display: inline-flex;
         flex-wrap: wrap;
