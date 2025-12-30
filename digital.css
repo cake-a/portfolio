@@ -33,7 +33,7 @@ img:hover {
     border: 1px white dotted;
 }
 
-@media only screen and (max-width: 600px) {
+@media (max-width: 600px) {
     main {
         display: inline-flex;
         flex-wrap: wrap;
@@ -44,6 +44,7 @@ img:hover {
         width: 100%;
     }
 }
+
 
 
 
