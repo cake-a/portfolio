@@ -42,4 +42,7 @@ footer {
     .post {
     padding: 15px;
     }
+    section {
+    width: 300px;
+    }
 }
